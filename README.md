@@ -77,7 +77,7 @@ The scripts assume that the MySQL server is hosted at `db.daws78s.online`. You w
 ## Logs
 Each script logs its operations into `/tmp/{script_name}-{timestamp}.log` for debugging purposes.
 
-##Sample Photos
+**Sample Photos**
 ![Sample1](https://github.com/user-attachments/assets/4152eed0-6a67-46a8-8238-178a962e9d13)
 ![Sample2](https://github.com/user-attachments/assets/33d04941-74ef-40a0-b85d-f9047b0f2cef)
 ![Sample3](https://github.com/user-attachments/assets/72d439ed-4a7f-4333-bd0d-47888a3e1cb9)
